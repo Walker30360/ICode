@@ -4,8 +4,6 @@
 
 **File saving type:**
 - Luogu
-- Atcoder
----ABC
----ARC
+- Atcoder ''' ABC ARC '''
 - TYOI
 
